@@ -12,7 +12,7 @@ under the directory,there are three documents:
     2. source code for the solution.
     3. test data i used.
 PS:
-     some code maybe include "#define local" sentense,generally it is removed.if you want to submit it to the judge ,please delete this sentence before you submit .
+     some code may include "#define local" sentense,generally it is removed.if you want to submit it to the judge ,please delete this sentence before you submit .
     "#define local" is a sign to be used to open input files to input test data in localhost. if you submit the code to the judge without get rid of it,you will find the code doesn't work(get wrong answer etc).
     if you delete this sentence  still can't get accepted status,please contact me.
 
