@@ -6,16 +6,16 @@ this is a repository to save my solution to the online judge below:
 I will add others online judge in the future. please wait our update.
 
 it is guarenteed that all the code store there are Accepted by the judge.
-each judge has their own repository.and under each repository one problem owns one directoryi named by the problem id.
-under the directory,there is three documents:
+each judge has their own repository. under each repository one problem owns one repository named by the problem id in their judge.
+under the directory,there are three documents:
     1. execuatable binary release.
     2. source code for the solution.
-    3. test data
+    3. test data i used.
 PS:
-    if you see code include #define local sentense,if you want to submit it to the judge ,please delete this sentence before you submit the code.
-    #define local is a sign to used to open input files to input test data in localhost. if you submit the code to the judge without get rid of it,you will find the code isn't working.
-    if you delete this sentence you still can't get Accepted status,please contact me.
+     some code maybe include "#define local" sentense,generally it is removed.if you want to submit it to the judge ,please delete this sentence before you submit .
+    "#define local" is a sign to be used to open input files to input test data in localhost. if you submit the code to the judge without get rid of it,you will find the code doesn't work(get wrong answer etc).
+    if you delete this sentence  still can't get accepted status,please contact me.
 
-all the solution can be used to review and submit to the judge.
-if you use the code for commercial use or blog or paper , please site the author (henhimicons:kanberra354562007@gmail.com)
-best wishes! hope all of you can get good result and knowledge from practice in OI!
+all the solution here can be used to review,study and be submited to the judge.
+if you use the code for commercial use or in your blog or paper , please consider site the author (henhimicons:kanberra354562007@gmail.com).
+hope all of you have fun in your OI life!
