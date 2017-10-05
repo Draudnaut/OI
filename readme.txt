@@ -8,9 +8,9 @@ I will add others online judge in the future. please wait our update.
 it is guarenteed that all the code store there are Accepted by the judge.
 each judge has their own repository. under each repository one problem owns one repository named by the problem id in their judge.
 under the directory,there are three documents:
-    1. execuatable binary release.
-    2. source code for the solution.
-    3. test data i used.
+    1. execuatable binary release. (main)
+    2. source code for the solution.(always be main.cpp)
+    3. test data i used.(always be test,in)
 PS:
      some code may include "#define local" sentense,generally it is removed.if you want to submit it to the judge ,please delete this sentence before you submit .
     "#define local" is a sign to be used to open input files to input test data in localhost. if you submit the code to the judge without get rid of it,you will find the code doesn't work(get wrong answer etc).
