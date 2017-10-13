@@ -19,3 +19,7 @@ PS:
 all the solution here can be used to review,study and be submited to the judge.
 if you use the code for commercial use or in your blog or paper , please consider site the author (henhimicons:kanberra354562007@gmail.com).
 hope all of you have fun in your OI life!
+
+---------------------------------------------------------
+
+update: add my xps-13 
