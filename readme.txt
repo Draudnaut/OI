@@ -22,4 +22,6 @@ hope all of you have fun in your OI life!
 
 ---------------------------------------------------------
 
-update: add my xps-13 
+update: add my xps-13
+there maybe some mix in executable files due to both windows and linux (ubuntu) enviroment are used to contribute files.
+it is suggested to make your own executable files by compile the souce code.
