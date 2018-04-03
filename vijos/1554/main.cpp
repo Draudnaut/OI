@@ -5,7 +5,7 @@ int n;
 long long T;
 int coin[maxn];
 void quick_mul(){
-
+    
 }
 void put_ans(int judge){
     if (judge==1){
