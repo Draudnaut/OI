@@ -4,8 +4,9 @@ using namespace std;
 int coin[maxn];
 int main()
 {
-    int n,T;
-    while (scanf("%d%d",&n,&T)==2){
+    int n;
+    long long T;
+    while (scanf("%d%lld",&n,&T)==2){
         for (int i=0;i<n;i++){
             scanf("%d",&coin[i]);
             coin[i]--;
