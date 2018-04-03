@@ -6,6 +6,7 @@ this is a repository to save my solution to the online judge below:
     POJ:https://poj.org
 I will add others online judge in the future. please wait our update.
 
+The repository is also used for personal git command training.
 it is guarenteed that all the code store there are Accepted by the judge.
 each judge has their own repository. under each repository one problem owns one repository named by the problem id in their judge.
 under the directory,there are three documents:
