@@ -11,7 +11,7 @@ int main()
             scanf("%d",&coin[i]);
             coin[i]--;
         }
-
+        int change;
     }
     return 0;
 }
