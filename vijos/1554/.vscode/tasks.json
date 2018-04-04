@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-O2","-g","-std=c++11","${workspaceFolder}/1554/main.cpp"
+                "-O2","-g","-std=c++11","main.cpp"
             ],
             "group": {
                 "kind": "build",
